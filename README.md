@@ -1,8 +1,35 @@
 # Digital Brand Survey Tool
 
+## Description
+
+digital-brand-survey/
+|-- backend/
+|   |-- .env
+|   |-- data_processing.py
+|   |-- package.json
+|   |-- server.js
+|   |-- .gitignore
+|-- frontend/
+|   |-- public/
+|   |   |-- index.html
+|   |-- src/
+|   |   |-- components/
+|   |   |   |-- SurveyForm.js
+|   |   |   |-- Question.js
+|   |   |   |-- AdminPanel.js
+|   |   |-- App.js
+|   |   |-- index.js
+|   |-- .env
+|   |-- package.json
+|   |-- .gitignore
+|-- README.md
+
+
 ## Table of Contents
 
+
 - [Digital Brand Survey Tool](#digital-brand-survey-tool)
+  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Objectives](#objectives)
